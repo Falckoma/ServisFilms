@@ -1,0 +1,11 @@
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/model/Profile.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/service/ServiceProfile.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/service/AuthenticationService.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/DemoKrApplication.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/service/ServiceSettings.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/service/ServisAuth.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/mapper/MapperProfile.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/repository/RepositorySettings.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/controllers/ControllerProd.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/repository/RepositoryAuthent.java
+/project/app_serv/kr_1.1.1.fullEDITEON/src/main/java/com/example/demo_kr/repository/RepositoryProfile.java
